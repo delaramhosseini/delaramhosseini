@@ -37,7 +37,7 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
 14) Compiler
     
 15) Machine Language and Assembly:
-   - [Implementation of an Image Processor]()
+    - [Implementation of an Image Processor]()
   
 11) Computational Neuroscience
     
