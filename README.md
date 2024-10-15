@@ -32,7 +32,7 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
    - [A solution for the classic producer-consumer problem with a shared buﬀer](https://github.com/delaramhosseini/Producer-consumer-problem)
     
 10) Database Management Systems
-   - [Implimenting Alibaba's database](https://github.com/delaramhosseini/Alibaba-Database-Simulatio-with-SQL)
+    - [Implimenting Alibaba's database](https://github.com/delaramhosseini/Alibaba-Database-Simulatio-with-SQL)
       
 14) Compiler
     
