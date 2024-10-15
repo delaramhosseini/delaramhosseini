@@ -12,7 +12,7 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
 4) Data Structures and Algorithms:
    - [BTree Database](https://github.com/delaramhosseini/BTree-Database)
      
-5) data mining:
+5) Data Mining:
    
 7) Principals of Computer Systems:
    - [Morris Mano Basic Computer](https://github.com/delaramhosseini/Morris-Mano-Basic-Computer)
@@ -20,7 +20,7 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
 8) Artificial Intelligence:
    - [Segmentation on Kvasir-SEG](https://github.com/delaramhosseini/Segmentation-on-Kvasir-SEG)
    - [The pacman game with Q-Learning](https://github.com/delaramhosseini/The-pacman-game-with-Q-Learning)
-   - solving cutting stock problem with
+   - solving cutting stock problem with:
        - [Genetic algorithm](https://github.com/delaramhosseini/Cutting-Stock-Problem-Genetic-Algorithms)
        - [Simulated Annealing(SA) algorithm](https://github.com/delaramhosseini/Cutting-Stock-Problem-Simulated-Annealing)
        - [Hill climbing algorithm](https://github.com/delaramhosseini/Cutting-Stock-Problem-Hill-Climbing-Algorithm)
