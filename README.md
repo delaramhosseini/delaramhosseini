@@ -26,7 +26,7 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
       - [Hill climbing algorithm](https://github.com/delaramhosseini/Cutting-Stock-Problem-Hill-Climbing-Algorithm)
 
 9) Fundamental of operating system:
-   - [Desing a Tic-Tac-Toe game with server-client architecture](https://github.com/delaramhosseini/Tic-tac-toe-Game)
+   - [Designing a Tic-Tac-Toe game with server-client architecture](https://github.com/delaramhosseini/Tic-tac-toe-Game)
    - [A program that simulates a web server using a thread pool](https://github.com/delaramhosseini/Web-Server)
    - [Readers-Writers Problem]()
    - [A solution for the classic producer-consumer problem with a shared buﬀer](https://github.com/delaramhosseini/Producer-consumer-problem)
