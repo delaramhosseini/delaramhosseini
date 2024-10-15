@@ -5,7 +5,8 @@ I am Delaram, and I’m glad to have you here!
 Currently, I’m in the final semester of my bachelor’s degree in Computer Science, and I aim to continue my education in this field. Throughout my education, I’ve taken various courses and completed a wide range of projects across different domains. Below are some highlights:
 
 1) Fundamentals of Computer Science and Programming:
-   
+
+
 3) Advanced Programming:
    
 4) Data Structures and Algorithms:
