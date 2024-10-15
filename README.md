@@ -19,10 +19,10 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
 8) Artificial Intelligence:
    - [Segmentation on Kvasir-SEG](https://github.com/delaramhosseini/Segmentation-on-Kvasir-SEG)
    - [The pacman game with Q-Learning](https://github.com/delaramhosseini/The-pacman-game-with-Q-Learning)
-   - [solving cutting stock problem with]()
-       - [Genetic algorithm]()
-       - [SA algorithm]()
-       - [Hill climbing algorithm]()
+   - solving cutting stock problem with
+       - [Genetic algorithm](https://github.com/delaramhosseini/Cutting-Stock-Problem-Genetic-Algorithms)
+       - [Simulated Annealing(SA) algorithm](https://github.com/delaramhosseini/Cutting-Stock-Problem-Simulated-Annealing)
+       - [Hill climbing algorithm](https://github.com/delaramhosseini/Cutting-Stock-Problem-Hill-Climbing-Algorithm)
 
 9) Fundamental of operating system:
     - [Desing a Tic-Tac-Toe game with server-client architecture]()
