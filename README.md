@@ -51,7 +51,7 @@ In addition to my university education, I’m passionate about learning more in 
    - Programming Languages: Python, C++, assembly, etc.
    - Web Development: HTML, CSS, JavaScript
    - Databases: MySQL, PostgreSQL, MongoDB
-   - Machine Learning: TensorFlow, Numpy, Panda, Pytorch, Pymontorch, Conex, Matplotlib, Keras
+   - Machine Learning: Pytorch, Keras, TensorFlow, Numpy, Panda, Pymontorch, Conex, Matplotlib
 
 ## Current Projects
    - Graph Neural Networks for Social Recommendation
