@@ -26,9 +26,10 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
        - [Hill climbing algorithm](https://github.com/delaramhosseini/Cutting-Stock-Problem-Hill-Climbing-Algorithm)
 
 9) Fundamental of operating system:
-    - [Desing a Tic-Tac-Toe game with server-client architecture]()
-    - [A program that simulates a web server using a thread pool]()
-    - [A solution for the classic producer-consumer problem with a shared buﬀer]()
+    - [Desing a Tic-Tac-Toe game with server-client architecture](https://github.com/delaramhosseini/Tic-tac-toe-Game)
+    - [A program that simulates a web server using a thread pool](https://github.com/delaramhosseini/Web-Server)
+    - [Readers-Writers Problem]()
+    - [A solution for the classic producer-consumer problem with a shared buﬀer](https://github.com/delaramhosseini/Producer-consumer-problem)
     
 10) Database Management Systems
     - [Implimenting Alibaba's database]()
@@ -45,10 +46,6 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
 14) Introduction to Bioinformatics
 
 In addition to my university education, I’m passionate about learning more in the field of computer science. I’ve completed several online courses, particularly focusing on machine learning.
-## Certifications & Courses
-- [Neural Networks and Deep Learning](https://coursera.org/share/c3953380fddac42602f3f6398d31f716)
-- [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/bab199698fafb3ea109333a7ab60d2bf)
-- [Structuring Machine Learning Projects](https://coursera.org/share/ff48a333faf011fa91bbe8d4b9f32fa5)
 
 ## Skills
 - Programming Languages: Python, C++, assembly, etc.
