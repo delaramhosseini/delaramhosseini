@@ -9,16 +9,16 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
 3) Advanced Programming:
    
 4) Data Structures and Algorithms:
-   - [BTree Database]()
+   - [BTree Database](https://github.com/delaramhosseini/BTree-Database)
      
 5) data mining:
    
 7) Principals of Computer Systems:
-   - [Morris Mano Basic Computer]()
+   - [Morris Mano Basic Computer](https://github.com/delaramhosseini/Morris-Mano-Basic-Computer)
   
 8) Artificial Intelligence:
-   - [Segmentation on Kvasir-SEG]()
-   - [The pacman game with Q-Learning]()
+   - [Segmentation on Kvasir-SEG](https://github.com/delaramhosseini/Segmentation-on-Kvasir-SEG)
+   - [The pacman game with Q-Learning](https://github.com/delaramhosseini/The-pacman-game-with-Q-Learning)
    - [solving cutting stock problem with]()
        - [Genetic algorithm]()
        - [SA algorithm]()
@@ -53,7 +53,7 @@ In addition to my university education, I’m passionate about learning more in 
 - Programming Languages: Python, C++, assembly, etc.
 - Web Development: HTML, CSS, JavaScript
 - Databases: MySQL, PostgreSQL, MongoDB
-- Machine Learning: TensorFlow, Numpy, Panda, Pytorch, Pymontorch, Conex, Matplotlib, 
+- Machine Learning: TensorFlow, Numpy, Panda, Pytorch, Pymontorch, Conex, Matplotlib, Keras
 
 ## Current Projects
 - [Graph Neural Networks for Social Recommendation]()
