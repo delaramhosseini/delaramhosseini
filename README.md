@@ -45,8 +45,6 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
 
 14) Introduction to Bioinformatics
 
-In addition to my university education, I’m passionate about learning more in the field of computer science. I’ve completed several online courses, particularly focusing on machine learning.
-
 ## Skills
    - Programming Languages: Python, C++, assembly, etc.
    - Web Development: HTML, CSS, JavaScript
