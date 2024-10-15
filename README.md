@@ -12,7 +12,7 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
 4) Data Structures and Algorithms:
    - [BTree Database](https://github.com/delaramhosseini/BTree-Database)
      
-5) Data Mining:
+6) Data Mining:
    
 7) Principals of Computer Systems:
    - [Morris Mano Basic Computer](https://github.com/delaramhosseini/Morris-Mano-Basic-Computer)
@@ -21,23 +21,23 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
    - [Segmentation on Kvasir-SEG](https://github.com/delaramhosseini/Segmentation-on-Kvasir-SEG)
    - [The pacman game with Q-Learning](https://github.com/delaramhosseini/The-pacman-game-with-Q-Learning)
    - solving cutting stock problem with:
-       - [Genetic algorithm](https://github.com/delaramhosseini/Cutting-Stock-Problem-Genetic-Algorithms)
-       - [Simulated Annealing(SA) algorithm](https://github.com/delaramhosseini/Cutting-Stock-Problem-Simulated-Annealing)
-       - [Hill climbing algorithm](https://github.com/delaramhosseini/Cutting-Stock-Problem-Hill-Climbing-Algorithm)
+      - [Genetic algorithm](https://github.com/delaramhosseini/Cutting-Stock-Problem-Genetic-Algorithms)
+      - [Simulated Annealing(SA) algorithm](https://github.com/delaramhosseini/Cutting-Stock-Problem-Simulated-Annealing)
+      - [Hill climbing algorithm](https://github.com/delaramhosseini/Cutting-Stock-Problem-Hill-Climbing-Algorithm)
 
 9) Fundamental of operating system:
-    - [Desing a Tic-Tac-Toe game with server-client architecture](https://github.com/delaramhosseini/Tic-tac-toe-Game)
-    - [A program that simulates a web server using a thread pool](https://github.com/delaramhosseini/Web-Server)
-    - [Readers-Writers Problem]()
-    - [A solution for the classic producer-consumer problem with a shared buﬀer](https://github.com/delaramhosseini/Producer-consumer-problem)
+   - [Desing a Tic-Tac-Toe game with server-client architecture](https://github.com/delaramhosseini/Tic-tac-toe-Game)
+   - [A program that simulates a web server using a thread pool](https://github.com/delaramhosseini/Web-Server)
+   - [Readers-Writers Problem]()
+   - [A solution for the classic producer-consumer problem with a shared buﬀer](https://github.com/delaramhosseini/Producer-consumer-problem)
     
 10) Database Management Systems
-    - [Implimenting Alibaba's database]()
+   - [Implimenting Alibaba's database]()
       
-12) Compiler
+14) Compiler
     
-14) Machine Language and Assembly:
-    - [Implementation of an Image Processor]()
+15) Machine Language and Assembly:
+   - [Implementation of an Image Processor]()
   
 11) Computational Neuroscience
     
@@ -48,13 +48,15 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
 In addition to my university education, I’m passionate about learning more in the field of computer science. I’ve completed several online courses, particularly focusing on machine learning.
 
 ## Skills
-- Programming Languages: Python, C++, assembly, etc.
-- Web Development: HTML, CSS, JavaScript
-- Databases: MySQL, PostgreSQL, MongoDB
-- Machine Learning: TensorFlow, Numpy, Panda, Pytorch, Pymontorch, Conex, Matplotlib, Keras
+   - Programming Languages: Python, C++, assembly, etc.
+   - Web Development: HTML, CSS, JavaScript
+   - Databases: MySQL, PostgreSQL, MongoDB
+   - Machine Learning: TensorFlow, Numpy, Panda, Pytorch, Pymontorch, Conex, Matplotlib, Keras
 
 ## Current Projects
-- [Graph Neural Networks for Social Recommendation]()
+   - Graph Neural Networks for Social Recommendation
+
+---
 
 I’m always eager to explore state-of-the-art technologies and methods in computer science and enjoy tackling challenging projects. I believe that by immersing myself in complex problems, I not only improve my skills but also gain a deeper understanding of new concepts. I would be delighted to connect with you and collaborate on new projects!
 
