@@ -28,7 +28,7 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
 9) Fundamental of operating system:
    - [Designing a Tic-Tac-Toe game with server-client architecture](https://github.com/delaramhosseini/Tic-tac-toe-Game)
    - [A program that simulates a web server using a thread pool](https://github.com/delaramhosseini/Web-Server)
-   - [Readers-Writers Problem]()
+   - [Readers-Writers Problem](https://github.com/delaramhosseini/Readers-Writers-Problem)
    - [A solution for the classic producer-consumer problem with a shared buﬀer](https://github.com/delaramhosseini/Producer-consumer-problem)
     
 10) Database Management Systems
