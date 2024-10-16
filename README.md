@@ -5,11 +5,12 @@ I am Delaram, and I’m glad to have you here!
 Currently, I’m in the final semester of my bachelor’s degree in Computer Science, and I aim to continue my education in this field. Throughout my education, I’ve taken various courses and completed a wide range of projects across different domains. Below are some highlights:
 
 1) Fundamentals of Computer Science and Programming:
-
+   - [ControlPanel](https://github.com/delaramhosseini/ControlPanel)
 
 3) Advanced Programming:
+   - [corridorproject](https://github.com/delaramhosseini/corridorproject)
    
-4) Data Structures and Algorithms:
+5) Data Structures and Algorithms:
    - [BTree Database](https://github.com/delaramhosseini/BTree-Database)
      
 6) Data Mining:
