@@ -40,7 +40,7 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
     - [Implementation of an Image Processor using Assembly language](https://github.com/delaramhosseini/Image-Processing-With-Assembly)
   
 11) Computational Neuroscience
-    - [first project]()
+    - [Neuron Dynamics Modeling](https://github.com/delaramhosseini/Neuron-Dynamics-Modeling)
     - [Analysis of Neuron Activity and Synaptic Connections in Spiking Neural Networks](https://github.com/delaramhosseini/Analysis-of-Neuron-Activity-and-Synaptic-Connections-in-Spiking-Neural-Networks)
     - [Information Coding and Learning Mechanisms in Spiking Neural Networks](https://github.com/delaramhosseini/Exploring-Coding-Methods-and-Learning-Mechanisms-in-Spiking-Neural-Networks)
     - [Enhancing Learning Processes in Spiking Neural Networks through Neuronal Architecture and Inhibition Mechanisms](https://github.com/delaramhosseini/Dynamics-of-Learning-in-Spiking-Neural-Networks)
