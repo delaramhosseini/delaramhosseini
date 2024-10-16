@@ -40,6 +40,11 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
     - [Implementation of an Image Processor using Assembly language](https://github.com/delaramhosseini/Image-Processing-With-Assembly)
   
 11) Computational Neuroscience
+    - [first project]()
+    - [second project]()
+    - [third project]()
+    - [Enhancing Learning Processes in Spiking Neural Networks through Neuronal Architecture and Inhibition Mechanisms](https://github.com/delaramhosseini/Dynamics-of-Learning-in-Spiking-Neural-Networks)
+    - [Image Processing Techniques in Early Visual Cortex](https://github.com/delaramhosseini/Image-Processing-Techniques-in-Early-Visual-Cortex)
     
 13) Advanced Information Retrieval
 
