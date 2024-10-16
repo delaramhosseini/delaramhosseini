@@ -37,7 +37,7 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
 14) Compiler
     
 15) Machine Language and Assembly:
-    - [Implementation of an Image Processor using Assembly language](https://github.com/delaramhosseini/Image-Processing-With-Assembly/blob/main/README.md)
+    - [Implementation of an Image Processor using Assembly language](https://github.com/delaramhosseini/Image-Processing-With-Assembly)
   
 11) Computational Neuroscience
     
