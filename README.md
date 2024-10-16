@@ -57,7 +57,7 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
    - Databases: MySQL, PostgreSQL, MongoDB
    - Machine Learning: Pytorch, Keras, TensorFlow, Numpy, Panda, Pymontorch, Conex, Matplotlib
 
-## Current Projects
+## Current Research
    - Graph Neural Networks for Social Recommendation
 
 ---
