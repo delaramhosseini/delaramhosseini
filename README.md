@@ -14,9 +14,9 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
    - [BTree Database](https://github.com/delaramhosseini/BTree-Database)
      
 6) Data Mining:
-   - [Classification of Blood Donation Patterns]()
-   - [Classification of Health Risks and Speech Disorders]()
-   - [Dimensionality Reduction, Classification, and Clustering Techniques]()
+   - [Classification of Blood Donation Patterns](https://github.com/delaramhosseini/Classification-of-Blood-Donation-Patterns)
+   - [Classification of Health Risks and Speech Disorders](https://github.com/delaramhosseini/Classification-of-Health-Risks-and-Speech-Disorders)
+   - [Dimensionality Reduction, Classification, and Clustering Techniques](https://github.com/delaramhosseini/Dimensionality-Reduction-Classification-and-Clustering-Techniques)
    
 8) Principals of Computer Systems:
    - [Morris Mano Basic Computer](https://github.com/delaramhosseini/Morris-Mano-Basic-Computer)
