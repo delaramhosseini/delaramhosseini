@@ -17,6 +17,7 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
    - [Classification of Blood Donation Patterns](https://github.com/delaramhosseini/Classification-of-Blood-Donation-Patterns)
    - [Classification of Health Risks and Speech Disorders](https://github.com/delaramhosseini/Classification-of-Health-Risks-and-Speech-Disorders)
    - [Dimensionality Reduction, Classification, and Clustering Techniques](https://github.com/delaramhosseini/Dimensionality-Reduction-Classification-and-Clustering-Techniques)
+   - [Grapevine Leaf Classification Using Pre-trained Deep Learning Models](https://github.com/delaramhosseini/Grapevine-Leaf-Classification-Using-Pre-trained-Deep-Learning-Models)
    
 8) Principals of Computer Systems:
    - [Morris Mano Basic Computer](https://github.com/delaramhosseini/Morris-Mano-Basic-Computer)
