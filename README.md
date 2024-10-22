@@ -14,11 +14,14 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
    - [BTree Database](https://github.com/delaramhosseini/BTree-Database)
      
 6) Data Mining:
+   - [Classification of Blood Donation Patterns]()
+   - [Classification of Health Risks and Speech Disorders]()
+   - [Dimensionality Reduction, Classification, and Clustering Techniques]()
    
-7) Principals of Computer Systems:
+8) Principals of Computer Systems:
    - [Morris Mano Basic Computer](https://github.com/delaramhosseini/Morris-Mano-Basic-Computer)
   
-8) Artificial Intelligence:
+9) Artificial Intelligence:
    - [Segmentation on Kvasir-SEG](https://github.com/delaramhosseini/Segmentation-on-Kvasir-SEG)
    - [The pacman game with Q-Learning](https://github.com/delaramhosseini/The-pacman-game-with-Q-Learning)
    - solving cutting stock problem with:
@@ -26,13 +29,13 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
       - [Simulated Annealing(SA) algorithm](https://github.com/delaramhosseini/Cutting-Stock-Problem-Simulated-Annealing)
       - [Hill climbing algorithm](https://github.com/delaramhosseini/Cutting-Stock-Problem-Hill-Climbing-Algorithm)
 
-9) Fundamental of operating system:
+10) Fundamental of operating system:
    - [Designing a Tic-Tac-Toe game with server-client architecture](https://github.com/delaramhosseini/Tic-tac-toe-Game)
    - [A program that simulates a web server using a thread pool](https://github.com/delaramhosseini/Web-Server)
    - [Readers-Writers Problem](https://github.com/delaramhosseini/Readers-Writers-Problem)
    - [A solution for the classic producer-consumer problem with a shared buﬀer](https://github.com/delaramhosseini/Producer-consumer-problem)
     
-10) Database Management Systems
+11) Database Management Systems
     - [Implimenting Alibaba's database](https://github.com/delaramhosseini/Alibaba-Database-Simulatio-with-SQL)
       
 14) Compiler
