@@ -52,8 +52,10 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
     - [Image Processing Techniques in Early Visual Cortex](https://github.com/delaramhosseini/Image-Processing-Techniques-in-Early-Visual-Cortex)
     
 13) Advanced Information Retrieval
+    - []()
 
-14) Introduction to Bioinformatics
+15) Introduction to Bioinformatics
+    - []()
 
 ## Skills
    - Programming Languages: Python, C++, assembly, etc.
