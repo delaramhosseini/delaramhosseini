@@ -52,7 +52,7 @@ Currently, I’m in the final semester of my bachelor’s degree in Computer Sci
     - [Image Processing Techniques in Early Visual Cortex](https://github.com/delaramhosseini/Image-Processing-Techniques-in-Early-Visual-Cortex)
     
 13) Advanced Information Retrieval
-    - [Author-Identification-using-Language-Models](https://github.com/delaramhosseini/Author-Identification-using-Language-Models)
+    - [Author Identification using Language Models](https://github.com/delaramhosseini/Author-Identification-using-Language-Models)
 
 15) Introduction to Bioinformatics
     - [Algorithms in Bioinformatics](https://github.com/delaramhosseini/Algorithms-in-Bioinformatics/blob/main/README.md)
