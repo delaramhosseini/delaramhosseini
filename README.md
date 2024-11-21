@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Delaram, and I’m glad to have you here!
+I am **Delaram**, and I’m glad to have you here!
 
 Currently, I’m in the final semester of my bachelor’s degree in Computer Science, and I aim to continue my education in this field. Throughout my education, I’ve taken various courses and completed a wide range of projects across different domains. Below are some highlights:
 
@@ -53,7 +53,7 @@ In addition to my university education, I’m passionate about learning more in 
 - Programming Languages: Python, C++, assembly, etc.
 - Web Development: HTML, CSS, JavaScript
 - Databases: MySQL, PostgreSQL, MongoDB
-- Machine Learning: TensorFlow, Numpy, Panda, Pytorch, Pymontorch, Conex, Matplotlib, Keras
+- Tools: Pytorch,TensorFlow, Keras, Numpy, Panda,  Pymontorch, Conex, Matplotlib
 
 ## Current Projects
 - [Graph Neural Networks for Social Recommendation]()
